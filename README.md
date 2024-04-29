@@ -94,7 +94,7 @@ This is a repository with software of JADE experiment.
 
         - Install Docker desktop from ```https://www.docker.com/products/docker-desktop/```
 
-        - In the terminal, navigate to a folder where the program should be installed (using: cd path/to/folder):
+        - In the terminal, navigate to a folder where the program should be installed (using: ```cd path/to/folder```):
         - Clone the JADE repository: ```git clone https://github.com/andriish/JADE```
 	        - If the git package is not installed: ```brew install git```
 		        - If homebrew is not installed: ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"```
